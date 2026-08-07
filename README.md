@@ -30,15 +30,4 @@
 
 ## <div align=center>🧑‍💻about me😊</div>
 
-```python
-def myLife():
-    print("hi👋, i am manoj joshi")
-    print("a passionate web developer from nepal[🇳🇵]")
-    currentlyLearning = "next.js"
-    reachMeAt="manoj.joshi.public@gmail.com"
-    funFact = "i am single 😅"
-
-    # i love gaming, music && .....
-
-life()
-```
+fuck off
