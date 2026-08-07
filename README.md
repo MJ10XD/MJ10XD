@@ -28,6 +28,4 @@
 </div>
 <hr>
 
-## <div align=center>🧑‍💻about me😊</div>
 
-fuck off
